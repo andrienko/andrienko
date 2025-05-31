@@ -1,16 +1,13 @@
-## Hi there 👋
+### Who
+My name is Ilia (Illya, Illia or Ilia, whichever you prefer.)
 
-<!--
-**andrienko/andrienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What
+I am a passionate (no, really), entthusiastic, yet a little grumpy software engineer.
+In recent years I usually work as JavaScript developer. I used Preact and ORP before it was cool. I love meta-programming and the ECMA262.
+Most of my work is "single-page applications" of one kind or another.
 
-Here are some ideas to get you started:
+### Hobbies
+I love sci-fi, music and generative art.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github
+I do not use GitHub to host code. It is a mess. Relax and ask me directly if you are curious for some kind of "samples" of my work.
